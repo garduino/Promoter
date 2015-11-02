@@ -1,0 +1,31 @@
+http://www.google.com.ar/addurl.html
+
+http://www.google.com.ar/addurl?q=http%3A%2F%2Fwww.arsol.biz&dq=Desarrollo+de+Software&submit=Agregar+URL
+
+http://www.google.com.ar/addurl?q=http://www.arsol.biz&dq=Desarrollo+de+Software&submit=Agregar+URL
+
+http://www.google.com.ar/addurl?q=http%3A%2F%2Fwww.vaing.com.ar&dq=F%E1brica+de+Electrificadores+Rurales+Centinela&submit=Agregar+URL
+
+Ya agregamos su dirección URL (http://www.arsol.biz) a nuestra lista de direcciones URL para exploración automática. Tenga en cuenta que no agregamos a nuestro índice todas las direcciones URL que recibimos. Por ende, no podemos prever ni garantizar si realmente aparecerá, ni en qué fecha ello ocurriría. 
+
+Volver a la página principal de Google. 
+
+
+Promoter / Promoción
+
+http://www.mseo.com/search_engines_in_spanish.html
+http://www.wpromote.com
+http://www.megapromoter.com
+
+
+Strings para agregar en buscadores
+
+Yahoo España (Requiere Login)
+http://es.search.yahoo.com/free/logrequest?url=http%3A%2F%2Fwww.arsol.info&.submit=Sugerir+URL&class=Search&pass=1&ei=UTF-8
+
+19/04/2006
+Agregados los yahoo en español e InfoTiger.com.
+
+Faltan agregar los demás, según: http://world.yahoo.com/ y también TODOS los googles.
+
+Otros a agregar: MSN Search, hay que mirar el string que arma para subir el sitio y presentar al usuario la pagina para tipear la clave.

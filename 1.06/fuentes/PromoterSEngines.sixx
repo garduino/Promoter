@@ -1,0 +1,147 @@
+<sixx sixx.version="1.0">
+	<sixx.object sixx.id="0" sixx.type="Set" >
+		<sixx.object sixx.id="1" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="2" sixx.name="seName" sixx.type="String" >Google Colombia</sixx.object>
+			<sixx.object sixx.id="3" sixx.name="seURL" sixx.type="String" >http://www.google.com.co/addurl</sixx.object>
+			<sixx.object sixx.id="4" sixx.name="seMethod" sixx.type="Symbol" >GET</sixx.object>
+			<sixx.object sixx.id="5" sixx.name="seSuccessString" sixx.type="UndefinedObject" >nil</sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="6" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="7" sixx.name="seName" sixx.type="String" >Google M&#195;&#169;xico</sixx.object>
+			<sixx.object sixx.id="8" sixx.name="seURL" sixx.type="String" >http://www.google.com.mx/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="9" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="10" sixx.name="seName" sixx.type="String" >Per&#195;&#186;</sixx.object>
+			<sixx.object sixx.id="11" sixx.name="seURL" sixx.type="String" >http://www.google.com.pe/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="12" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="13" sixx.name="seName" sixx.type="String" >Yahoo M&#195;&#169;xico</sixx.object>
+			<sixx.object sixx.id="14" sixx.name="seURL" sixx.type="String" >http://mx.search.yahoo.com/free/logrequest?url=</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="15" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="16" sixx.name="seName" sixx.type="String" >Google Costa Rica</sixx.object>
+			<sixx.object sixx.id="17" sixx.name="seURL" sixx.type="String" >http://www.google.co.cr/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="18" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="19" sixx.name="seName" sixx.type="String" >InfoTiger</sixx.object>
+			<sixx.object sixx.id="20" sixx.name="seURL" sixx.type="String" >http://www.infotiger.com/addurl.html?url=</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="21" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="22" sixx.name="seName" sixx.type="String" >Yahoo Espa&#195;&#177;a</sixx.object>
+			<sixx.object sixx.id="23" sixx.name="seURL" sixx.type="String" >http://es.search.yahoo.com/free/logrequest?url=</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="24" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="25" sixx.name="seName" sixx.type="String" >Google Venezuela</sixx.object>
+			<sixx.object sixx.id="26" sixx.name="seURL" sixx.type="String" >http://www.google.co.ve/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="27" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="28" sixx.name="seName" sixx.type="String" >Google Panam&#195;&#161;</sixx.object>
+			<sixx.object sixx.id="29" sixx.name="seURL" sixx.type="String" >http://www.google.com.pa/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="30" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="31" sixx.name="seName" sixx.type="String" >Google Puerto Rico</sixx.object>
+			<sixx.object sixx.id="32" sixx.name="seURL" sixx.type="String" >http://www.google.com.pr/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="33" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="34" sixx.name="seName" sixx.type="String" >Google Espa&#195;&#177;a</sixx.object>
+			<sixx.object sixx.id="35" sixx.name="seURL" sixx.type="String" >http://www.google.es/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="36" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="37" sixx.name="seName" sixx.type="String" >Google El Salvador</sixx.object>
+			<sixx.object sixx.id="38" sixx.name="seURL" sixx.type="String" >http://www.google.com.sv/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="39" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="40" sixx.name="seName" sixx.type="String" >Google Ecuador</sixx.object>
+			<sixx.object sixx.id="41" sixx.name="seURL" sixx.type="String" >http://www.google.com.ec/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="42" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="43" sixx.name="seName" sixx.type="String" >Yahoo USA en Espa&#195;&#177;ol</sixx.object>
+			<sixx.object sixx.id="44" sixx.name="seURL" sixx.type="String" >http://espanol.search.yahoo.com/free/logrequest?url=</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="45" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="46" sixx.name="seName" sixx.type="String" >Yahoo Argentina</sixx.object>
+			<sixx.object sixx.id="47" sixx.name="seURL" sixx.type="String" >http://ar.search.yahoo.com/free/logrequest?url=</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="48" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="49" sixx.name="seName" sixx.type="String" >Google Dominicana</sixx.object>
+			<sixx.object sixx.id="50" sixx.name="seURL" sixx.type="String" >http://www.google.com.do/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="51" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="52" sixx.name="seName" sixx.type="String" >Google Chile</sixx.object>
+			<sixx.object sixx.id="53" sixx.name="seURL" sixx.type="String" >http://www.google.cl/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+		<sixx.object sixx.id="54" sixx.type="SearchEngine" >
+			<sixx.object sixx.id="55" sixx.name="seName" sixx.type="String" >Google Panam&#195;&#161;</sixx.object>
+			<sixx.object sixx.id="56" sixx.name="seURL" sixx.type="String" >http://www.google.com.pa/addurl</sixx.object>
+			<sixx.object sixx.idref="4" sixx.name="seMethod" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seSuccessString" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seUserAgent" ></sixx.object>
+			<sixx.object sixx.idref="5" sixx.name="seReferer" ></sixx.object>
+		</sixx.object>
+	</sixx.object>
